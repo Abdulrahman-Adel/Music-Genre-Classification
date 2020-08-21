@@ -10,6 +10,18 @@ The [GTZAN dataset](https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-ge
 
 ----
 
+## Approach 1
+
+I've created a dataset by extracting features of every indiviual audio file, these features are [Spectral Centroid, Spectral Rolloff, Spectral Bandwidth,  Zero-Crossing Rate, Mel-Frequency Cepstral Coefficients(MFCCs), Chroma feature], and using these feature for prediction.
+
+----
+
+## Approach 2
+
+
+
+-----
+
 ## Libraries
 <!-- UL -->
 * librosa
