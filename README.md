@@ -18,7 +18,7 @@ I've created a dataset by extracting features of every indiviual audio file, the
 
 ## Approach 2
 
-
+By using A visual representation for each audio file (Spectograms). Classifying the music genre with CNN 
 
 -----
 
