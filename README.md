@@ -19,6 +19,9 @@ I've created a dataset by extracting features of every indiviual audio file, the
 ## Approach 2
 
 By using A visual representation for each audio file (Spectograms). Classifying the music genre with CNN 
+<!-- Image -->
+![pop00005](https://user-images.githubusercontent.com/57441828/90922266-fd9d8500-e3eb-11ea-9f6b-5f2c94004c6c.png)
+Des: Spectogram of sample Pop song
 
 -----
 
